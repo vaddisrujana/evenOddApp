@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.background {
+  background-color: #ffffff;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.background1 {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  padding: 10px;
+  border-radius: 25px;
+  text-align: center;
+}
+.button {
+  background-color: #ffffff;
+  border-width: 0;
+  padding: 10px;
+  border-radius: 15px;
+}
